@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/v1.3-deprecated-orange" />
 
-[Download .unitypackage File](https://github.com/mvnrc/Unity-Package-Uninstaller-1.3-legacy/raw/main/Package%20Uninstaller.unitypackage)
+#### [Download .unitypackage File](https://github.com/mvnrc/Unity-Package-Uninstaller-1.3-legacy/raw/main/Package%20Uninstaller.unitypackage)
 
 #### Note: The free version is no longer supported! To download the latest version please visit http://www.movinarc.com/unity-package-uninstaller
 

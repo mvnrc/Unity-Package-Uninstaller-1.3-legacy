@@ -27,4 +27,6 @@ How? Simply select the package you have already imported and click Uninstall.
 
 [Forum Thread](https://forum.unity.com/threads/unity-package-uninstaller.378829/)
 
-Icons made by [flaticon.com](https://flaticon.com), [freepik.com](https://freepik.com)
+#### Credits:
+- [SharpCompress](https://github.com/adamhathcock/sharpcompress)
+- Icons made by [flaticon.com](https://flaticon.com), [freepik.com](https://freepik.com)

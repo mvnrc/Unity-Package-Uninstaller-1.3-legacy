@@ -27,6 +27,9 @@ How? Simply select the package you have already imported and click Uninstall.
 
 [Forum Thread](https://forum.unity.com/threads/unity-package-uninstaller.378829/)
 
+#### Remove
+To remove the **Package Uninstaller** asset itself, simply select it from the list and hit _Uninstall_! If you don't see the Package Uninstaller in the list, you should locate the `Package Uninstaller.unitypackage` file on your computer, using the _Browse_ button.
+
 #### Credits:
 - [SharpCompress](https://github.com/adamhathcock/sharpcompress)
 - Icons made by [flaticon.com](https://flaticon.com), [freepik.com](https://freepik.com)

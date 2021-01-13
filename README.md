@@ -1,4 +1,4 @@
-# Unity Package Uninstaller 1.3 (legacy)
+# Unity Package Uninstaller 1.3 (Free version)
 
 <img src="https://img.shields.io/badge/v1.3-deprecated-orange" />
 

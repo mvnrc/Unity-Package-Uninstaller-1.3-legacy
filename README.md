@@ -28,7 +28,19 @@ How? Simply select the package you have already imported and click Uninstall.
 [Forum Thread](https://forum.unity.com/threads/unity-package-uninstaller.378829/)
 
 #### Remove
-To remove the **Package Uninstaller** asset itself, simply locate the `Package Uninstaller.unitypackage` file on your computer, using the _Browse_ button and hit _Uninstall_.
+To remove the **Package Uninstaller** asset itself, simply locate the `Package Uninstaller.unitypackage` file on your computer using the _Browse_ button and hit _Uninstall_.
+
+#### Troubleshooting
+
+- _Package Uninstaller menu does not appear:_
+When you import the Package Uninstaller, make sure that the Unity Editor builds the project successfully without any errors, at least once. Otherwise, the editor won't be able to add the menu (it's an almost common case for every utility asset). Don't forget to restart the editor afterward.
+If that didn't solve the issue, close the Unity editor, then go to your project folder on your PC and remove all the sub-folders inside the Movinarc folder, except the Assets folder.
+
+- _Some of the files are not removed after uninstalling the package:_
+Package Uninstaller only removes the files/folders that are included inside the original asset that you've downloaded from Asset Store, not the ones which have been created after importing the asset.
+
+- _I can't see my asset in the list of packages:_
+That could be a problem with your Unity installation or corrupted files/folders. You can check that out or also manually locate the asset (`.unitypackage` file) from your computer, using the _Browse_ button.
 
 #### Credits:
 - [SharpCompress](https://github.com/adamhathcock/sharpcompress)
